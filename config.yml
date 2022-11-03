@@ -1,0 +1,8 @@
+
+proxies:
+  name: ss1
+  type: ss
+  server: 127.0.0.1
+  port: 8488
+  cipher: chacha20-ietf-poly1305
+  password: 123456789
